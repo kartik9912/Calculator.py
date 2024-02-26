@@ -1,0 +1,1 @@
+In this project we have made a calculator by python language.In this project we are taking two numbers as input by the user and they have options such as 1,2,3&4 for add,subtract,multiply&for division respectively.we are using if-elif and else statements in this project along with input and print statements.
